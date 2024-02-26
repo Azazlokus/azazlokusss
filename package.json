@@ -1,6 +1,6 @@
 {
   "name": "azazlokus",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Package by Azazlokus for Tea boosting.",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "Sigma",
     "ClickMe"
   ],
-  "author": "Azazlokus",
+  "author": "azazlokus",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Azazlokus/azazlokusss/issues"
@@ -26,6 +26,6 @@
     "azazlokus": "^1.0.0"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com/@azazlokus"
   }
 }
