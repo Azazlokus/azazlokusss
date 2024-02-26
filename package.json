@@ -1,5 +1,5 @@
 {
-  "name": "azazlokus",
+  "name": "@azazlokus/azazlokus",
   "version": "1.0.3",
   "description": "Package by Azazlokus for Tea boosting.",
   "main": "index.js",
@@ -26,6 +26,6 @@
     "azazlokus": "^1.0.0"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@azazlokus"
+    "registry": "https://npm.pkg.github.com/"
   }
 }
