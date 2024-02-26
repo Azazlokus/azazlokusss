@@ -1,0 +1,25 @@
+{
+  "name": "azazlokus",
+  "version": "1.0.0",
+  "description": "Package by Azazlokus for Tea boosting.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azazlokus/azazlokuss.git"
+  },
+  "keywords": [
+    "Tea",
+    "Success",
+    "Sigma",
+    "ClickMe"
+  ],
+  "author": "Azazlokus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Azazlokus/azazlokuss/issues"
+  },
+  "homepage": "https://github.com/Azazlokus/azazlokuss#readme"
+}
